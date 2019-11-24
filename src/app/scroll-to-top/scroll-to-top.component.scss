@@ -1,0 +1,19 @@
+.scroll-to-top {
+  white-space: nowrap;
+  text-align: left;
+  background: red;
+
+  border: 0;
+  border-radius: 0;
+  height: 4rem;
+  width: 4rem;
+
+  position: fixed;
+  bottom: 100px;
+  right: 0;
+  opacity: 0;
+}
+
+.show-scrollTop {
+  opacity: 1;
+}
